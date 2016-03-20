@@ -47,4 +47,4 @@
 // Note that the `-pack` flag is not necessary when using go generate, as it sets the environment variable
 // automatically. Refer to the [documentation](https://golang.org/cmd/go/) on the `go` command for more information.
 //
-package purse // import "github.com/smotes/purse"
+package purse // import "github.com/escribano/purse"

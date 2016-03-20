@@ -10,7 +10,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/smotes/purse"
+	"github.com/escribano/purse"
 )
 
 const (
